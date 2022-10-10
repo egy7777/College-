@@ -1,0 +1,68 @@
+import java.util.Scanner;
+
+public class Class6$9_29_Calculatorversion2 {
+
+	public static void main(String[] args) {
+		//declaration statements 
+		
+		double value1,value2,result; // 4 bytes 
+		char op;// 1 byte
+		Scanner sc=new Scanner (System.in);
+		// input my data 
+				
+		System.out.println("plz enter value1>>value2>>operator ");
+					
+			value1=sc.nextDouble();
+			value2=sc.nextDouble();
+			op=sc.next().charAt(0);
+				
+				
+			switch(op) {
+				
+			case '+': 
+				result=value1+value2;
+				System.out.println(value1+"+"+value2+" = "+result);
+				
+				break;
+			case '-':
+				result=value1-value2;
+				System.out.println(value1+"-"+value2+" = "+result);
+				break;
+			case '*':
+				result=value1*value2;
+				System.out.println(value1+"*"+value2+" = "+result);	
+				break;
+			case'/':
+				if (value2==0) {
+					System.out.println("Error, value can not be 0 for division");	
+				break;}
+				else {
+					result=value1/value2;
+				System.out.println(value1+"/"+value2+" = "+result);
+				break; 
+				}
+			default:
+				System.out.println("The operator is NOT valid");
+		}//end of switch
+				
+		String major="IT";
+		switch(major){
+		case "IT":
+			major="IT is awesome";
+						break;
+						
+						
+						
+		case "Math": 
+			major="Math";
+		break; 
+						
+						
+						
+		default:
+		}
+		System.out.println("major is "+major);
+				
+	}
+
+}
