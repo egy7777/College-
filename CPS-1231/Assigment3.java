@@ -18,7 +18,7 @@ public class Assigment3 {
 		switch(size) {
 		
 		case 29 :
-			sizeWaist= ("small");
+			sizeWaist= ("Small");
 			break;
 	
 	
@@ -41,12 +41,12 @@ public class Assigment3 {
 
 	
                 default:
-	               sizeWaist="unkown";
+	               sizeWaist="You're size is unkown";
 
 
 }
 		
-		System.out.println("you're size is "+sizeWaist);	
+		System.out.println("you're size is " +sizeWaist);	
 		
 		
 		
@@ -58,6 +58,10 @@ public class Assigment3 {
 		//default unkown
 		//print size
 
+		
+	
+		
+//nts:needs.to.be.loop"try again"
 	}
 
 }
