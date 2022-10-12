@@ -7,8 +7,7 @@ import java.util.Scanner;
  * 9-13-22 10:30
  */ 
 
-//scanner "grade"
-//print statements 
+//scanner grade
 
 public class Assigment1 {
 
@@ -97,6 +96,12 @@ Double FinalExamPercentage3= (0.30* student3 + 100)/ gradeAverage;
 
 
 
+		
+		
+		
+		
+		
+//nts:q.4.not.done
 	}
 
 }
