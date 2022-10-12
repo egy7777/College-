@@ -3,12 +3,11 @@ import java.util.Scanner;
 public class Class6$9_29_Calculatorversion2 {
 
 	public static void main(String[] args) {
-		//declaration statements 
+		Scanner sc=new Scanner (System.in);
 		
 		double value1,value2,result; // 4 bytes 
 		char op;// 1 byte
-		Scanner sc=new Scanner (System.in);
-		// input my data 
+// input data 
 				
 		System.out.println("plz enter value1>>value2>>operator ");
 					
@@ -62,6 +61,9 @@ public class Class6$9_29_Calculatorversion2 {
 		default:
 		}
 		System.out.println("major is "+major);
+		
+
+//nts:not.done.ll>45
 				
 	}
 
