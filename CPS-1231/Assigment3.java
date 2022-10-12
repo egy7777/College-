@@ -9,13 +9,12 @@ public class Assigment3 {
 		
 		
 		int size; 
-		
+		String sizeWaist = "";
 		
 		System.out.println("Please enter measurement to retrieve size ");
 		size=input.nextInt();
 		 
-	String sizeWaist = "";
-		
+	
 		switch(size) {
 		
 		case 29 :
@@ -41,8 +40,8 @@ public class Assigment3 {
 			break;
 
 	
-default:
-	sizeWaist="unkown";
+                default:
+	               sizeWaist="unkown";
 
 
 }
