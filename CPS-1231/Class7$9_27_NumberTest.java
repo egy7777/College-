@@ -4,12 +4,12 @@ public class Class7$9_27_NumberTest {
 
 	public static void main(String[] args) {
 		Scanner input= new Scanner(System.in);
-
 		
 		int number; 
+		
+		
 		System.out.println("Please enter a number");
-
-	    number=input.nextInt();
+			number=input.nextInt();
 
 		
 		
