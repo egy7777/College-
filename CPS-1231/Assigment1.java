@@ -92,9 +92,6 @@ Double FinalExamPercentage3= (0.30* student3 + 100)/ gradeAverage;
  	System.out.println("The final average for student 3 is %"+ FinalExamPercentage3);
 
 
-//not sure where the math could be wrong, I used the formula provided for the assignment 
-
-
 
 		
 		
