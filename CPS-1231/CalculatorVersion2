@@ -33,7 +33,8 @@ public class Class6$9_29_Calculatorversion2 {
 			case'/':
 				if (value2==0) {
 					System.out.println("Error, value can not be 0 for division");	
-				break;}
+	  			break;}
+				
 				else {
 					result=value1/value2;
 				System.out.println(value1+"/"+value2+" = "+result);
@@ -43,17 +44,7 @@ public class Class6$9_29_Calculatorversion2 {
 				System.out.println("The operator is NOT valid");
 		}//end of switch
 				
-		String major="IT";
-		switch(major){
-		case "IT":
-			major="IT is awesome";
-						break;
-						
-						
-						
-		case "Math": 
-			major="Math";
-		break; 
+		
 						
 						
 						
