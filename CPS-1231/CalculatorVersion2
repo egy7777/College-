@@ -6,8 +6,7 @@ public class Class6$9_29_Calculatorversion2 {
 		Scanner sc=new Scanner (System.in);
 		
 		double value1,value2,result; // 4 bytes 
-		char op;// 1 byte
-// input data 
+		char op;
 				
 		System.out.println("plz enter value1>>value2>>operator ");
 					
