@@ -1,3 +1,4 @@
+//Kean Email Generator
 package assigments;
 
 import java.util.Scanner;
