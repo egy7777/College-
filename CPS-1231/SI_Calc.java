@@ -1,4 +1,4 @@
-//calc
+//calc while loop
 import java.util.Scanner;
 
 public class SI_Bonus_Question_5 {
