@@ -5,7 +5,7 @@
 * Course: CPS*2231*2 - Computer Programming * 
 * Author: Ben Abraham
 * Homework: 2, task 2 
-* Program Description: 5x5  matrix   
+* Program Description: Generate a 5x5  matrix and sum of each row 
 ***************************************************************/
 package Assigments;
 import java.util.*;
