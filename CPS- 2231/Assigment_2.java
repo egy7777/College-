@@ -5,7 +5,7 @@
 * Course: CPS*2231*2 - Computer Programming * 
 * Author: Ben Abraham
 * Homework: 2, task 1 
-* Program Description:  
+* Program Description:  Return Max value in an array and execution time 
 ***************************************************************/
 package Assigments;
 import java.util.*;
@@ -54,7 +54,7 @@ public class Assigment_2 {
 
 	  
 
-	        }
+}
 
 
 
