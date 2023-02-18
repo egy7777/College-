@@ -1,7 +1,3 @@
-package Assigments;
-
-import java.nio.file.spi.FileSystemProvider;
-import java.util.Scanner;
 /***************************************************************
 **************** 
 * 
@@ -15,6 +11,11 @@ import java.util.Scanner;
 * Program Description: Kean Email Generator (x5)
 ****************************************************************
 *********/
+package Assigments;
+
+import java.nio.file.spi.FileSystemProvider;
+import java.util.Scanner;
+
 public class Assigment_1 {
 
 	public static void main(String[] args) {
