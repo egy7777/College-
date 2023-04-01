@@ -1,12 +1,9 @@
 /***************************************************************
 **************** 
-* 
 * Kean University 
 * Spring 2023 
 * Course: CPS2231 - Computer Programming 
-*  
-* Author: Ben Abraham, *02 
-*  
+* Author: Ben Abraham, Section: 02 
 * Homework 1 
 * Program Description: Kean Email Generator (x5)
 ****************************************************************
